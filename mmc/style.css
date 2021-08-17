@@ -1,0 +1,46 @@
+.main-header{
+    background-image: url(images/bggimg.jfif);
+    color: white;
+    
+   
+
+}
+.ph-num{
+    position: fixed;
+
+}
+
+
+
+.img-fluid {
+    
+    height: 15%;
+    width: 15%;
+    margin-left: 40%;
+    align-items: center;
+    margin-top: 35px;
+}
+
+
+
+
+.address{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    margin-left: 40%;
+    align-items: center;
+}
+
+.main-footer{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: fixed;
+    height: 70px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(27, 29, 29);
+  color: white;
+  text-align: center;
+  
+}
+    
