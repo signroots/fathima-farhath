@@ -1,0 +1,51 @@
+html,body{
+    /* background: url("./images/bgpalin.jfif");  */
+   
+    height: 100%;
+    background-size: cover; 
+} 
+
+.main{
+    
+    background-color: rgba(217, 244, 245, 0.864);
+}
+.launch{
+    
+    font-size: 40px;
+}
+.address{
+    font-size: 16px;
+}
+
+a{
+    font-size: 17px;
+    text-decoration: none !important;
+    
+}
+a:hover{
+    text-decoration: none !important;
+}
+.social-icon {
+    margin: 10px;
+    color: rgba(6, 6, 56, 0.871);
+}
+.main-footer{
+    position: fixed;
+    height: 40px;
+    left: 0;
+     bottom: 0;
+    width: 100%;
+    background-color: rgba(217, 244, 245, 0.864);
+    color: rgb(3, 20, 47);
+    text-align: center;
+  
+}
+
+
+@media(max-width:416px){
+    a{
+        font-size: 13px;
+        font-weight: bold;
+    }
+}
+
